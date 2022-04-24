@@ -10,5 +10,5 @@ Features
 ● 4 Captcha options<br>
 ● Antibot js<br>
 ● Gamepix API<br>
-● Wheel gam<br>e
+● Wheel game<br>
 ● Coingecko price API
